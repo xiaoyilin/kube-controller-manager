@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.20.2
+FROM k8s.gcr.io/kube-controller-manager:v1.13.12
 MAINTAINER xiaoyilin 406735078@qq.com
